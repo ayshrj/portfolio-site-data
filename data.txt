@@ -171,7 +171,7 @@
     },
     {
       "id": "gamechange-intern",
-      "title": "GameChange",
+      "title": "",
       "duration": "May 2024 - Sept. 2024",
       "role": "Software Development Intern",
       "year": "2024",
