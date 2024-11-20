@@ -539,7 +539,7 @@
     },
     {
       "type": "linkedin",
-      "url": "https://www.linkedin.com/in/ayush-raj-b1359a249/"
+      "url": "https://www.linkedin.com/in/ayushrj"
     },
     {
       "type": "github",
