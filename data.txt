@@ -578,7 +578,7 @@
       "secondary": "#155a6d"
     },
     {
-      "dataTheme": "Rose Quartz",
+      "dataTheme": "Flamingo",
       "accent": "#381717",
       "primary": "#F3EFE0",
       "secondary": "#825558"
