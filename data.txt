@@ -235,25 +235,6 @@
   ],
   "projects": [
     {
-      "title": "Frame View",
-      "link": "https://frameview.vercel.app/",
-      "media": "https://res.cloudinary.com/dda07g5aj/video/upload/v1728567251/dj3fkqnysyvuugsfijst.m3u8",
-      "mediaType": "video",
-      "details": [
-        "A feature-rich video player supporting local, cloud, and HLS video playback with beautiful design and caption support.",
-        "Allows users to create playlists with options like shuffle, loop, and single play.",
-        "Backend integration with TMDb API for detailed media information and adjustable window sizing via drag handles.",
-        "Socket-based remote control feature, enabling users to share a room key for remote access. Includes pause, play, skip, volume control, subtitle toggle, full screen, and reset options."
-      ],
-      "techStack": [
-        "ReactJS",
-        "TypeScript",
-        "NodeJS",
-        "Socket.io"
-      ],
-      "lastUpdate": "2024"
-    },
-    {
       "title": "Trivis",
       "link": "https://trivis.vercel.app/",
       "media": "https://res.cloudinary.com/dda07g5aj/video/upload/v1731864572/f5pi2wxekyaexraqjmyi.m3u8",
@@ -270,6 +251,25 @@
         "TypeScript",
         "GeminiAI",
         "NodeJS"
+      ],
+      "lastUpdate": "2024"
+    },
+    {
+      "title": "Frame View",
+      "link": "https://frameview.vercel.app/",
+      "media": "https://res.cloudinary.com/dda07g5aj/video/upload/v1728567251/dj3fkqnysyvuugsfijst.m3u8",
+      "mediaType": "video",
+      "details": [
+        "A feature-rich video player supporting local, cloud, and HLS video playback with beautiful design and caption support.",
+        "Allows users to create playlists with options like shuffle, loop, and single play.",
+        "Backend integration with TMDb API for detailed media information and adjustable window sizing via drag handles.",
+        "Socket-based remote control feature, enabling users to share a room key for remote access. Includes pause, play, skip, volume control, subtitle toggle, full screen, and reset options."
+      ],
+      "techStack": [
+        "ReactJS",
+        "TypeScript",
+        "NodeJS",
+        "Socket.io"
       ],
       "lastUpdate": "2024"
     },
@@ -291,23 +291,6 @@
       "lastUpdate": "2025"
     },
     {
-      "title": "Lineo",
-      "link": "https://lineo.vercel.app/",
-      "media": "https://res.cloudinary.com/dda07g5aj/video/upload/v1730371033/qndc9tfvhsoxbxdnmfvm.m3u8",
-      "mediaType": "video",
-      "details": [
-        "An efficient drawing application with tools such as pencil, rectangle, line, and eraser, perfect for quick sketches or detailed designs.",
-        "Supports dragging objects and screen navigation, along with pinch-to-zoom functionality for precise control.",
-        "Complete with undo and redo capabilities, customizable themes, and smooth performance."
-      ],
-      "techStack": [
-        "ReactJS",
-        "TypeScript",
-        "CSS"
-      ],
-      "lastUpdate": "2024"
-    },
-    {
       "title": "Weave",
       "link": "https://weave.vercel.app/",
       "media": "https://res.cloudinary.com/dda07g5aj/image/upload/v1730216055/Weave_d0aec9.png",
@@ -321,6 +304,23 @@
         "ReactJS",
         "TypeScript",
         "TailwindCSS"
+      ],
+      "lastUpdate": "2024"
+    },
+    {
+      "title": "Lineo",
+      "link": "https://lineo.vercel.app/",
+      "media": "https://res.cloudinary.com/dda07g5aj/video/upload/v1730371033/qndc9tfvhsoxbxdnmfvm.m3u8",
+      "mediaType": "video",
+      "details": [
+        "An efficient drawing application with tools such as pencil, rectangle, line, and eraser, perfect for quick sketches or detailed designs.",
+        "Supports dragging objects and screen navigation, along with pinch-to-zoom functionality for precise control.",
+        "Complete with undo and redo capabilities, customizable themes, and smooth performance."
+      ],
+      "techStack": [
+        "ReactJS",
+        "TypeScript",
+        "CSS"
       ],
       "lastUpdate": "2024"
     },
