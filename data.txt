@@ -531,7 +531,7 @@
     {
       "title": "CodeChef",
       "description": "Achieved 5 Star Rating",
-      "rating": "5★",
+      "rating": "★★★★★",
       "link": "https://www.codechef.com/users/eren_yeager108"
     },
     {
