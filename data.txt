@@ -343,7 +343,191 @@
       "lastUpdate": "2023"
     }
   ],
-  "skills": [
+  "skills": {
+    "Web Development": [
+      {
+        "skill": "HTML",
+        "info": "The standard markup language used for creating web pages."
+      },
+      {
+        "skill": "CSS",
+        "info": "A style sheet language used for describing the presentation of a document written in HTML or XML."
+      },
+      {
+        "skill": "JavaScript",
+        "info": "A programming language commonly used in web development to create interactive effects within web browsers."
+      },
+      {
+        "skill": "ReactJS",
+        "info": "A JavaScript library for building user interfaces, primarily for single-page applications."
+      },
+      {
+        "skill": "NodeJS",
+        "info": "A JavaScript runtime built on Chrome's V8 JavaScript engine, used for building fast and scalable network applications."
+      },
+      {
+        "skill": "MongoDB",
+        "info": "A NoSQL database program that uses JSON-like documents with optional schemas, designed for handling large amounts of unstructured data."
+      },
+      {
+        "skill": "TypeScript",
+        "info": "A typed superset of JavaScript that compiles to plain JavaScript, providing static type definitions."
+      },
+      {
+        "skill": "NextJS",
+        "info": "A React framework that provides infrastructure and simple development experience for server-side rendered applications."
+      }
+    ],
+    "Machine Learning": [
+      {
+        "skill": "Python",
+        "info": "A high-level, interpreted programming language known for its readability and versatility in various applications."
+      },
+      {
+        "skill": "Data Analysis",
+        "info": "The process of inspecting, cleaning, and modeling data to discover useful information and support decision-making."
+      },
+      {
+        "skill": "Data Visualization",
+        "info": "The graphical representation of data to help understand complex data patterns and insights."
+      },
+      {
+        "skill": "Supervised Learning",
+        "info": "A type of machine learning where the model is trained on labeled data, learning to predict the output from input data."
+      },
+      {
+        "skill": "Regression",
+        "info": "A statistical method in supervised learning to model the relationship between a dependent variable and one or more independent variables."
+      },
+      {
+        "skill": "Classification",
+        "info": "A type of supervised learning where the goal is to categorize data into predefined classes or groups."
+      },
+      {
+        "skill": "Advanced Learning Algorithms",
+        "info": "Complex algorithms used in machine learning for better accuracy and performance, including deep learning techniques."
+      },
+      {
+        "skill": "Unsupervised Learning",
+        "info": "A type of machine learning where the model learns patterns from unlabeled data without explicit instructions."
+      },
+      {
+        "skill": "Recommenders",
+        "info": "Algorithms used to predict user preferences and suggest items, such as movies or products, based on previous behavior."
+      },
+      {
+        "skill": "Reinforcement Learning",
+        "info": "A type of machine learning where an agent learns to make decisions by performing actions and receiving rewards or penalties."
+      },
+      {
+        "skill": "Scikit-Learn",
+        "info": "A popular Python library for machine learning, providing simple and efficient tools for data mining and analysis."
+      },
+      {
+        "skill": "TensorFlow",
+        "info": "An open-source machine learning framework developed by Google, widely used for training and deploying deep learning models."
+      }
+    ],
+    "Data Structures and Algorithms": [
+      {
+        "skill": "Analysis of Algorithms",
+        "info": "The study of the performance and efficiency of algorithms, focusing on time and space complexity."
+      },
+      {
+        "skill": "Mathematics",
+        "info": "The abstract science of number, quantity, and space, used as a foundation in many computing and engineering disciplines."
+      },
+      {
+        "skill": "Bit Manipulation",
+        "info": "The act of algorithmically manipulating bits or binary digits, a fundamental aspect of low-level programming."
+      },
+      {
+        "skill": "Recursion",
+        "info": "A programming technique where a function calls itself directly or indirectly to solve a problem."
+      },
+      {
+        "skill": "Arrays",
+        "info": "A data structure consisting of a collection of elements, each identified by an array index or key."
+      },
+      {
+        "skill": "Searching",
+        "info": "The process of finding a particular item in a data structure, such as an array or list."
+      },
+      {
+        "skill": "Sorting",
+        "info": "The process of arranging data in a specified order, typically ascending or descending."
+      },
+      {
+        "skill": "Matrix",
+        "info": "A two-dimensional array of numbers or data, often used in mathematical computations and graphics."
+      },
+      {
+        "skill": "Hashing",
+        "info": "A process to map data of arbitrary size to fixed-size values, commonly used in hash tables for fast data retrieval."
+      },
+      {
+        "skill": "Strings",
+        "info": "A sequence of characters, used to represent text in computing."
+      },
+      {
+        "skill": "Linked List",
+        "info": "A linear data structure where elements are stored in nodes, each containing a reference to the next node in the sequence."
+      },
+      {
+        "skill": "Stack",
+        "info": "A linear data structure following the Last In, First Out (LIFO) principle, used in function calls and backtracking algorithms."
+      },
+      {
+        "skill": "Queue",
+        "info": "A linear data structure following the First In, First Out (FIFO) principle, used in scheduling and buffering."
+      },
+      {
+        "skill": "Deque",
+        "info": "A double-ended queue that allows insertion and removal of elements from both ends, offering more flexibility than a stack or queue."
+      },
+      {
+        "skill": "Tree",
+        "info": "A hierarchical data structure consisting of nodes, with a single root node and potentially many levels of additional nodes."
+      },
+      {
+        "skill": "Binary Search Tree",
+        "info": "A type of tree data structure where each node has at most two children and the left child is less than the parent, while the right is greater."
+      },
+      {
+        "skill": "Heap",
+        "info": "A specialized tree-based data structure that satisfies the heap property, used in priority queues and heap sort algorithms."
+      },
+      {
+        "skill": "Graph",
+        "info": "A collection of nodes and edges representing relationships between pairs of objects, used in network modeling and algorithms."
+      },
+      {
+        "skill": "Greedy",
+        "info": "An algorithmic paradigm that makes the locally optimal choice at each step, aiming for a globally optimal solution."
+      },
+      {
+        "skill": "Backtracking",
+        "info": "An algorithmic technique for solving problems incrementally by trying solutions and abandoning them if they fail."
+      },
+      {
+        "skill": "Dynamic Programming",
+        "info": "An optimization technique that solves problems by breaking them down into simpler subproblems and storing their solutions."
+      },
+      {
+        "skill": "Trie",
+        "info": "A tree-like data structure used to store a dynamic set of strings, enabling fast string search and retrieval."
+      },
+      {
+        "skill": "Segment and Binary Indexed Trees",
+        "info": "Data structures used for storing and querying prefix sums and dynamic range queries efficiently."
+      },
+      {
+        "skill": "Disjoint Set",
+        "info": "A data structure that keeps track of a set of elements partitioned into disjoint subsets, used in network connectivity and union-find algorithms."
+      }
+    ]
+  },
+  "others": [
     {
       "title": "CodeChef",
       "description": "Achieved 5 Star Rating",
